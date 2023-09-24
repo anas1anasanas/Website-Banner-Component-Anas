@@ -1,0 +1,13 @@
+/* CSS for the banner */
+.banner {
+    background-color: #333; /* Background color of the banner */
+    color: #fff; /* Text color */
+    padding: 20px; /* Adjust the padding to your preference */
+    text-align: center; /* Center-align the text */
+}
+
+/* CSS for the title */
+.banner h1 {
+    margin: 0; /* Remove default margin for h1 */
+    font-size: 24px; /* Adjust the font size to your preference */
+}
